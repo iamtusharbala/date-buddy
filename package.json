@@ -1,6 +1,6 @@
 {
   "name": "date-buddy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A lightweight JavaScript library that helps you display and work with dates in a human-friendly way.",
   "main": "index.js",
   "scripts": {
