@@ -1,0 +1,3 @@
+timeAgo(date)	Converts past dates into human-friendly “ago” strings	3 hours ago
+timeUntil(date)	Converts future dates into “in x time” strings	in 5 days
+formatDate(date)	Formats any date to a readable format	October 29, 2025

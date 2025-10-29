@@ -1,0 +1,37 @@
+{
+  "name": "date-buddy",
+  "version": "0.0.1",
+  "description": "A lightweight JavaScript library that helps you display and work with dates in a human-friendly way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtusharbala/date-buddy.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "friendly",
+    "humanize",
+    "date-utils",
+    "timeago",
+    "datetime",
+    "formatter",
+    "relative-time",
+    "date-helper",
+    "time-helper",
+    "date-difference",
+    "weekday",
+    "javascript",
+    "utility",
+    "lightweight"
+  ],
+  "author": "Tushar Balakrishnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamtusharbala/date-buddy/issues"
+  },
+  "homepage": "https://github.com/iamtusharbala/date-buddy#readme"
+}
